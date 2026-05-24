@@ -1,77 +1,42 @@
-<h1>Hi 👋, I'm DeV. Chestly Ace </h1>
-<p>Aspiring Frontend developer with a passion for creating engaging web and mobile applications.</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Chestly%20Ace&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Designer%20%7C%20Photographer&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Designer+%26+Photographer+%F0%9F%8E%A8;3%2B+Years+Shipping+Real+Products;Open+to+Remote+Work+%F0%9F%8C+Cameroon" alt="Typing SVG" />
+</p>
 
-# 💫 About Me:
-👋 Hi, I’m @chestlyace<br>👀 I’m interested in programming<br>🌱 I’m currently learning coding<br>📫 How to reach me derryaccceey@gmail.com<br> Check out my <a href=" https://devchestly.netlify.app/">Portfolio</a> <br> I'm Chestly , a frontend web and mobile developer/ software engineering year 3 student, with a passion for crafting innovative web and mobile applications. My expertise lies in building robust and scalable solutions that meet the needs of businesses and users alike.<br><br> <h3>Key Skills:</h3><br><h5>💻Web Development:</h5> HTML, CSS, JavaScript, Bootstrap,TailwindCSS <br><h5>📱 Mobile App Development</h5>: Dart/flutter, Java <br> <h5>🛠️Version Control:</h5> Git <br><br> <h3>Projects:</h3> <br>E-commerce Website: Developed a comprehensive online store featuring product catalogs, shopping carts <br>Inventory Management App: Created a user-friendly application to streamline inventory tracking, order processing, and stock management. <br> Hospital Website: Currently working on a project to design and build a responsive website for a healthcare institution, focusing on patient information, appointment scheduling, and online consultations. <br><br><h3>My Goal:</h3> To continually enhance my software engineering skills and contribute to the growth of the tech community. I'm committed to delivering high-quality code and innovative solutions.<br><br><h3>Motto:</h3> "Coding a legacy one line at a time."<br><br>Let's connect!<br><br>derryacceey@gmail.com Feel free to explore my repositories for more details on my projects and contributions.
-### 📚 What I’m learning & exploring:
-- ⚙️ Advanced Data Structures & Algorithms  
-- 📊 Mathematical Statistics (correlation, joint/sampling distributions)  
-- 🤖 Machine Learning Fundamentals  
-- 📱 Mobile App Development  
-- 🖥️ Operating Systems & system-level concepts
-- 
-  ## 🚀 Languages and Tools I Use
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p> 
+## 📊 GitHub Stats
 
-<h2>⚡️ Where to find me</h2>
-<div align="left">
+<div align="center">
 
-<a href="https://discord.gg/bDRbAH9D" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://facebook.com/ChestlyAmahndong" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://instagram.com/chestlyace" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/chestly-ace-a3295432a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/chestlyace" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
-</a>
-<a href="https://codepen.io/chestlyace" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" alt="Codepen"/>
-</a>
-<a href="mailto:derryacceey@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=chestlyace&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+<img src="https://streak-stats.demolab.com?user=chestlyace&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
 
 </div>
 
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chestlyace&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chestlyace&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chestlyace&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chestlyace&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" height="160"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chestlyace&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chestlyace&theme=tokyo-night&hide_border=true&area=true&custom_title=Chestly's%20Contribution%20Activity" width="100%"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chestlyace&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=chestlyace&icon=2&color=13)](https://visitcount.itsvg.in)
-Let's connect!
+## 📬 Let's Work Together
 
-derryacceey@gmail.com
-Feel free to explore my repositories for more details on my projects and contributions.
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-chestlyace.online-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chestlyace.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chestly-ace-a3295432a)
+[![Gmail](https://img.shields.io/badge/Gmail-developerace0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developerace0@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B237%20676%20940%20247-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/237676940247)
+[![Instagram](https://img.shields.io/badge/Instagram-chestlyace-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chestlyace)
+[![X](https://img.shields.io/badge/X-chestlyace-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/chestlyace)
+[![CodePen](https://img.shields.io/badge/CodePen-chestlyace-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/chestlyace)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
